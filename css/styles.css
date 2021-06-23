@@ -1,0 +1,25 @@
+body{
+  background-color:#F8EDED;
+}
+hr{
+  border-style:none;
+  border-top-style: dotted;
+  border-color:#F0D9E7;
+  border-width:5px;
+  width:5%;
+}
+h1
+{
+ color:#FF75A0;
+ font-family:Sans-serif;
+}
+h3
+{
+   color:#FF75A0;
+   font-family:cursive;
+}
+.button
+{
+  background-color: #F5ABC9;
+}
+
